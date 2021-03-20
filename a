@@ -1,0 +1,478 @@
+[33mcommit e569521e6b3e01f7900b5f1203778aa38d155d39[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: alexanss <alexander.sanmiguel@metropolia.fi>
+Date:   Mon Mar 15 16:38:05 2021 +0200
+
+    Added page title and description
+
+[33mcommit 96dc0b1111e3f454b8c0fa2b46121c96adfc75f1[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: iikoo2 <ilpo.kuivanen@metropolia.fi>
+Date:   Wed Mar 20 14:47:09 2019 +0200
+
+    typo fix
+
+[33mcommit 108865b899b788759b9d02df007841740e327484[m
+Author: iikoo2 <ilpo.kuivanen@metropolia.fi>
+Date:   Wed Mar 20 14:44:57 2019 +0200
+
+    kokeilu
+
+[33mcommit 3bd68d076891a1579456c9e07a26f07eee08fa93[m
+Author: Ilpo Kuivanen <ilpo.kuivanen@metropolia.fi>
+Date:   Wed Nov 15 11:41:59 2017 +0000
+
+    Removed Codeigniter references from chapter 16
+
+[33mcommit 87809e78106611adb8aa9bed91e499c5e00a990e[m
+Author: Ilpo Kuivanen <ilpo.kuivanen@metropolia.fi>
+Date:   Wed Nov 15 08:57:17 2017 +0000
+
+    added cookies and sessions to ch 16
+
+[33mcommit e60596421e80bfb24d24a42e141f4ce64123b24e[m
+Author: Ilpo Kuivanen <ilpo.kuivanen@metropolia.fi>
+Date:   Wed Nov 15 08:48:25 2017 +0000
+
+    added cookies and sessions to ch 16
+
+[33mcommit a46ece15a770759020688c3013c84a56e8076941[m
+Author: Ilpo Kuivanen <ilpo.kuivanen@metropolia.fi>
+Date:   Tue Nov 22 07:31:05 2016 +0000
+
+    divided MVC and Codeigniter to different worksheets
+
+[33mcommit fbcf66f4afe429dc37683eb8723ef6b0dcdb640b[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Sat Nov 19 19:54:49 2016 +0000
+
+    Person API execrice updated
+
+[33mcommit 12512d3fb2b966334db64ec2593a4c252c02686f[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Thu Nov 17 08:56:47 2016 +0000
+
+    Firebrand references deleted, minor editing on excercises
+
+[33mcommit 3b1dc15ab52cb154d14a1fc485338ae902e64cda[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Thu Nov 17 08:16:43 2016 +0000
+
+    added test.php
+
+[33mcommit 87c2d49f60cca952ba914da352a5ecc231bb7890[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Thu Nov 17 08:15:45 2016 +0000
+
+    index.html removed
+
+[33mcommit 396cb7c1db2f4929903fa69815409ee100b906bb[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Wed Nov 9 22:26:54 2016 +0000
+
+    correct the hint of a last exercise
+
+[33mcommit 298919adc865d5523b62a158b63f4c179d49f4c7[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Wed Oct 26 14:25:32 2016 +0000
+
+    fix the running instruction of a form
+
+[33mcommit cc2cca1c8cbbbd6c79f31e690d7fd3651caade62[m
+Author: Erja Nikunen <erja.nikunen@gmail.com>
+Date:   Sat Apr 16 16:07:41 2016 +0300
+
+    corrected typo
+
+[33mcommit fd0116ec7c6004e321098ea8ab8cce29828a7e6a[m
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Fri Apr 15 13:12:50 2016 +0000
+
+    Removed references to Codio
+
+[33mcommit 50a9ea1e4728b8da8f643fc2fd401fab8cdb041b[m
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Fri Apr 15 12:59:58 2016 +0000
+
+    Removed obsolete lab material
+
+[33mcommit 20f613ae841e8e836055320a06557c860a7c02ae[m
+Merge: d89fd79 f1db735
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Fri Apr 15 12:57:36 2016 +0000
+
+    Merge branch 'master' of github.com:covcom/205CDE
+
+[33mcommit d89fd792a9686e3d4ba9e43ff155b861abe1b415[m
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Fri Apr 15 12:57:13 2016 +0000
+
+    Codio to Cloud9
+
+[33mcommit f1db73563eb9cf1daafa4507d62719dea7d966ff[m
+Author: Ilpo Kuivanen <ilpo.kuivanen@metropolia.fi>
+Date:   Tue Apr 12 09:17:42 2016 +0000
+
+    Some minor corrections
+
+[33mcommit a082852cd03c906693d7da81e8b1496cc744c7cf[m
+Author: Ilpo Kuivanen <ilpo.kuivanen@metropolia.fi>
+Date:   Tue Apr 12 08:53:28 2016 +0000
+
+    Some links converted to lists
+
+[33mcommit 8a2df64b3224dcf6f3993967bb28a3c9917ac787[m
+Author: Ilpo Kuivanen <ilpo.kuivanen@metropolia.fi>
+Date:   Tue Apr 12 08:48:32 2016 +0000
+
+    Some links converted to lists
+
+[33mcommit bb224cf2a9efd51da93ef346d1cf6db004d4cb03[m
+Author: Ilpo Kuivanen <ilpo.kuivanen@metropolia.fi>
+Date:   Tue Apr 12 08:44:29 2016 +0000
+
+    MVC and Codeigniter updated.
+
+[33mcommit b7946adc76aed5eebcc8d5750357873258665ed0[m
+Author: Erja Nikunen <erja.nikunen@gmail.com>
+Date:   Sun Apr 10 06:13:20 2016 +0000
+
+    removed a link
+
+[33mcommit cd292f40ae8343aa65d854e008604965f14efc7b[m
+Author: Erja Nikunen <erja.nikunen@gmail.com>
+Date:   Sun Apr 10 06:08:41 2016 +0000
+
+    changed REST communication sections
+
+[33mcommit d7c4bbb4b6e1066a2539b289fc1694006a7c3b2f[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Wed Apr 6 10:18:04 2016 +0000
+
+    remove a work file
+
+[33mcommit 79e01daf8439b729591c1a09b089b5ec2a25e771[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Wed Apr 6 09:59:48 2016 +0000
+
+    original
+
+[33mcommit a400923b6deeb963f2bcc699dad6d865bd229b8c[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Wed Apr 6 09:44:44 2016 +0000
+
+    remove work files
+
+[33mcommit 6063230a6918a1b0a74c20a2fa69c7de8a14b5a2[m
+Merge: 62a9c40 4d5c00a
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Wed Apr 6 09:36:34 2016 +0000
+
+    Merge branch 'master' of https://github.com/covcom/205CDE
+
+[33mcommit 62a9c402b5b618eaff0f220cb21da7e72bd79b72[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Wed Apr 6 09:34:55 2016 +0000
+
+    updated to use an older version of phpunit
+
+[33mcommit 19de5f898b7171a7920b61d40eb85968f7bf3b4f[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Tue Apr 5 19:59:52 2016 +0000
+
+    tehtävä 12.4
+
+[33mcommit 039d30eefa058ef37378aa23c05c717c01c9ed90[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Tue Apr 5 15:07:59 2016 +0000
+
+    tehtävä 12.3
+
+[33mcommit 4d5c00af33bbcda6d7a0a701f4730df290de85c1[m
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Tue Apr 5 12:31:45 2016 +0000
+
+    Typo in code example corrected.
+
+[33mcommit b3e826ac98d17aea59203edd99c0b1a929a791db[m
+Merge: 35c61c0 ed1a44c
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Tue Apr 5 12:29:44 2016 +0000
+
+    Merge branch 'master' of github.com:covcom/205CDE
+
+[33mcommit 35c61c0351e7575aebfcb43195f311dde2db4c46[m
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Tue Apr 5 12:29:40 2016 +0000
+
+    Typo in code example corrected.
+
+[33mcommit ed1a44c12de41873e44c5967b8f61f6393ab60ec[m
+Author: Ilpo Kuivanen <ilpo.kuivanen@metropolia.fi>
+Date:   Tue Apr 5 10:06:53 2016 +0000
+
+    Secure added old chapter 13 removed
+
+[33mcommit e3a4bfdff3a09ac4a28c853c69af16841b026b81[m
+Author: Erja Nikunen <erja.nikunen@gmail.com>
+Date:   Sun Apr 3 13:28:28 2016 +0300
+
+    Corrected minor typos in worksheet.md.
+
+[33mcommit fedab74e5cb9a3758bca8fbac945609884a74512[m
+Author: Erja Nikunen <erja.nikunen@gmail.com>
+Date:   Sat Apr 2 07:00:09 2016 +0000
+
+    added form
+
+[33mcommit 621f0962be847d9a228e9dd246d498a6ac459179[m
+Author: Erja Nikunen <erja.nikunen@gmail.com>
+Date:   Sat Apr 2 06:35:28 2016 +0000
+
+    corrected typo
+
+[33mcommit e826081d3c9e2eeffe58a1b9972204aa9d601f81[m
+Author: Erja Nikunen <erja.nikunen@gmail.com>
+Date:   Sat Apr 2 06:28:05 2016 +0000
+
+    changed introduction to PHP to manipulate XMLHttpRequests
+
+[33mcommit edba1e32e379604a4103d65f98809932bc16380a[m
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Fri Apr 1 10:54:35 2016 +0000
+
+    Updated from Codio to Cloud9
+
+[33mcommit f982e5d7eda099b778b03311cb119bcd5872e209[m
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Thu Mar 31 12:14:40 2016 +0000
+
+    Added OO content. Removed code that generates HTML. Removed REST content.
+
+[33mcommit a64c92c958b47e83302b58a6286d2a8a8422e4db[m
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Wed Mar 23 13:36:14 2016 +0000
+
+    Removed ref to Brackets, minor mods
+
+[33mcommit 296396bed91d5f786bf62401cff75a10e9f54c1f[m
+Author: Ilpo Kuivanen <ilpo.kuivanen@metropolia.fi>
+Date:   Tue Mar 22 09:31:01 2016 +0000
+
+    08 09 codio and brackets -references fixed
+
+[33mcommit 4b3095f5d99096f661653e41409397eb57d75295[m
+Author: Erja Nikunen <erja.nikunen@gmail.com>
+Date:   Sun Mar 20 06:29:24 2016 +0000
+
+    removed hidden_parameters files, because never used
+
+[33mcommit 444bc9d08a4a4f5f65d41ff30780ce66618d3203[m
+Author: Erja Nikunen <erja.nikunen@gmail.com>
+Date:   Sun Mar 20 06:19:37 2016 +0000
+
+    updated labs 06 & 07
+
+[33mcommit d6e722c998ca3d9bc7b066ed0762dc1bd81fb623[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Tue Mar 15 17:23:41 2016 +0000
+
+    remove commodore64.html
+
+[33mcommit 8892790ca0dd8416e79542a4f3c2f07db459fce0[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Tue Mar 15 17:21:41 2016 +0000
+
+    remove computers80.html
+
+[33mcommit 8ea9ba74486011d86a509bc6121d5fb7db5ae01b[m
+Merge: 37bb81c fce2af1
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Tue Mar 15 16:57:32 2016 +0000
+
+    Merge branch 'master' of https://github.com/covcom/205CDE
+
+[33mcommit 37bb81cedf0f97ef7a2a470147d35eef8f73abd2[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Tue Mar 15 16:53:56 2016 +0000
+
+    erasing references to Codio
+
+[33mcommit fce2af13e36f6295b5d8e31a8396b96f9d4e6599[m
+Author: Ilpo Kuivanen <ilpo.kuivanen@metropolia.fi>
+Date:   Tue Mar 15 10:22:41 2016 +0000
+
+            new file:   labs/04 CSS3 and Bootstrap/boxmodel.html
+            new file:   labs/04 CSS3 and Bootstrap/columns.html
+            new file:   labs/04 CSS3 and Bootstrap/css/floatstyles.css
+            new file:   labs/04 CSS3 and Bootstrap/css/menustyles.css
+            new file:   labs/04 CSS3 and Bootstrap/floating.html
+            new file:   labs/04 CSS3 and Bootstrap/game.html
+            new file:   labs/04 CSS3 and Bootstrap/img/berries.png
+            new file:   labs/04 CSS3 and Bootstrap/img/box_assignment.png
+            new file:   labs/04 CSS3 and Bootstrap/img/mars.jpg
+            new file:   labs/04 CSS3 and Bootstrap/img/menu.png
+            new file:   labs/04 CSS3 and Bootstrap/img/onions.png
+            new file:   labs/04 CSS3 and Bootstrap/menu.html
+
+[33mcommit d7895c2dc50c16624774f82923bdce6a114e05b4[m
+Author: Ilpo Kuivanen <ilpo.kuivanen@metropolia.fi>
+Date:   Tue Mar 15 10:13:58 2016 +0000
+
+            modified:   labs/04 CSS3 and Bootstrap/worksheet.md
+            deleted:    labs/05 TO BE REMOVED: Responsive Layout with CSS3/boxmodel.html
+            deleted:    labs/05 TO BE REMOVED: Responsive Layout with CSS3/columns.html
+            deleted:    labs/05 TO BE REMOVED: Responsive Layout with CSS3/css/floatstyles.css
+            deleted:    labs/05 TO BE REMOVED: Responsive Layout with CSS3/css/menustyles.css
+            deleted:    labs/05 TO BE REMOVED: Responsive Layout with CSS3/floating.html
+            deleted:    labs/05 TO BE REMOVED: Responsive Layout with CSS3/game.html
+            deleted:    labs/05 TO BE REMOVED: Responsive Layout with CSS3/img/berries.png
+            deleted:    labs/05 TO BE REMOVED: Responsive Layout with CSS3/img/box_assignment.png
+            deleted:    labs/05 TO BE REMOVED: Responsive Layout with CSS3/img/mars.jpg
+            deleted:    labs/05 TO BE REMOVED: Responsive Layout with CSS3/img/menu.png
+            deleted:    labs/05 TO BE REMOVED: Responsive Layout with CSS3/img/onions.png
+            deleted:    labs/05 TO BE REMOVED: Responsive Layout with CSS3/menu.html
+    
+            labs/04 CSS3 and Bootstrap/boxmodel.html
+            labs/04 CSS3 and Bootstrap/columns.html
+            labs/04 CSS3 and Bootstrap/css/floatstyles.css
+            labs/04 CSS3 and Bootstrap/css/menustyles.css
+            labs/04 CSS3 and Bootstrap/floating.html
+            labs/04 CSS3 and Bootstrap/game.html
+            labs/04 CSS3 and Bootstrap/img/berries.png
+            labs/04 CSS3 and Bootstrap/img/box_assignment.png
+            labs/04 CSS3 and Bootstrap/img/mars.jpg
+            labs/04 CSS3 and Bootstrap/img/menu.png
+            labs/04 CSS3 and Bootstrap/img/onions.png
+            labs/04 CSS3 and Bootstrap/menu.html
+
+[33mcommit 58b68ccad4713f49c24192ebfa57a7ef1b34c7d8[m
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Mon Mar 14 08:38:18 2016 +0000
+
+    Reference to Codio removed
+
+[33mcommit 904a7a7124a9fd754e15b0837c324ec610043ddf[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Sun Mar 13 12:36:27 2016 +0000
+
+    HTML excercise almost done
+
+[33mcommit 7f418c1f23b3b2723ca9ac5b9158fd8b26c4c29b[m
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Thu Mar 10 14:27:41 2016 +0000
+
+    Removed text on SSH keys, corrected numbering etc.
+
+[33mcommit 784ab8f2dc4bee0b3b109e5aabd42f179bbc36a4[m
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Thu Mar 10 10:31:44 2016 +0000
+
+    Restructured worksheets
+
+[33mcommit c182687b9a168d9f68d84d2cd67e4d2108aa2a96[m
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Thu Mar 10 10:29:28 2016 +0000
+
+    Restructured worksheets
+
+[33mcommit b42612c278c2cdda9712553be17af62c3ed010fc[m
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Thu Mar 10 10:25:14 2016 +0000
+
+    Restructured worksheets
+
+[33mcommit 49b83a8a4a5aa70fe45313a79e814aa991a6f9e4[m
+Author: Vesa Ollikainen <vesa.ollikainen@metropolia.fi>
+Date:   Tue Mar 8 09:57:45 2016 +0000
+
+    changes from Codio to Cloud9
+
+[33mcommit 51dc1b5620f43f213db3db92ee4f1b393a4eb6b7[m
+Author: Jianhua Yang <jianhua.email@gmail.com>
+Date:   Fri Jan 8 23:33:53 2016 +0000
+
+    update gitignore
+
+[33mcommit 7f7128c88a6fb52886bfb11930f73b75e8f2cba4[m
+Author: Jianhua Yang <jianhua.email@gmail.com>
+Date:   Fri Jan 8 23:33:10 2016 +0000
+
+    update gitignore
+
+[33mcommit d5b366a674351ab476edc14300dc7303681ad8c0[m
+Author: Jianhua Yang <jianhua.email@gmail.com>
+Date:   Fri Jan 8 23:28:38 2016 +0000
+
+    1516Semester2
+
+[33mcommit c97df0d716c576be352d890112469c60ac83c9b5[m
+Author: iikoo2 <ilpo.kuivanen@metropolia.fi>
+Date:   Wed Nov 25 08:52:36 2015 +0000
+
+            modified:   labs/18 Codeigniter and RESTful API/worksheet.md
+
+[33mcommit 4fa711588260bad6088173ec8f475e5335aab254[m
+Author: iikoo2 <ilpo.kuivanen@metropolia.fi>
+Date:   Mon Nov 23 09:59:31 2015 +0000
+
+            modified:   labs/18 Codeigniter and RESTful API/worksheet.md
+
+[33mcommit 96b24298bf061f76768e43943df5e0f995fa10e5[m
+Author: vesavvo <vesa.ollikainen@metropolia.fi>
+Date:   Sun Nov 22 11:04:46 2015 +0000
+
+    Fixed lists
+
+[33mcommit ed0bc1a41cd0fbfde68b4b94a61dee9fc5933f6d[m
+Author: vesavvo <vesa.ollikainen@metropolia.fi>
+Date:   Sun Nov 22 10:59:25 2015 +0000
+
+    Added programmatic use from REST API handler
+
+[33mcommit b8ada718029051e3ecbea9547058e225e0acca72[m
+Author: vesavvo <vesa.ollikainen@metropolia.fi>
+Date:   Wed Nov 18 17:26:37 2015 +0000
+
+    Changed example to a more vivid one
+
+[33mcommit f952938777b8533d57e8005d29e6de440403d9f5[m
+Merge: 104bc21 0aa9699
+Author: vesavvo <vesa.ollikainen@metropolia.fi>
+Date:   Wed Nov 18 17:15:38 2015 +0000
+
+    Merge branch 'master' of https://github.com/covcom/205CDE
+
+[33mcommit 104bc219a84fec18cb6c45d97aae5c129c98fead[m
+Author: vesavvo <vesa.ollikainen@metropolia.fi>
+Date:   Wed Nov 18 17:13:09 2015 +0000
+
+    Several clarifications
+
+[33mcommit 0aa9699edc8f3e173b36c38987a96a775a55673f[m
+Author: iikoo2 <ilpo.kuivanen@metropolia.fi>
+Date:   Tue Nov 17 11:32:03 2015 +0000
+
+            new file:   labs/18 Codeigniter and RESTful API/worksheet.md
+            deleted:    labs/18 Templating/worksheet.md
+
+[33mcommit 87832a05ce44e1725ac59841595c96f6efd8c6dd[m
+Merge: 3e5a256 5e26f18
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Mon Nov 16 21:59:28 2015 +0000
+
+    Merge branch 'master' of https://github.com/covcom/205CDE
+
+[33mcommit 3e5a2563f241c7d29748d4b406905b829e8afe6e[m
+Author: Juha Pekka Kämäri <juha.kamari@metropolia.fi>
+Date:   Mon Nov 16 21:58:19 2015 +0000
+
+    Deleted api.php and RestClient.php
+
+[33mcommit 5e26f1821facfc6e5e8f4c593a256c21192b5773[m
+Author: iikoo2 <ilpo.kuivanen@metropolia.fi>
+Date:   Mon Nov 16 12:40:57 2015 +0000
+
+            modified:   labs/17 Model-View-Controller/worksheet.md
+
+[33mcommit 84bc3a8e0544ae96969ba237e02161078b8e1564[m
+Author: erjani <erja.nikunen@gmail.com>
+Date:   Mon Nov 16 12:20:32 201

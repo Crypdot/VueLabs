@@ -1,3 +1,3 @@
-# My Git Notes
+# My Git Notes v1.2
 
-Detailed notes showing how to use Git.
+Personal note

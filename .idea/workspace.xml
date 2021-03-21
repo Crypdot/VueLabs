@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93b8e7fb-8f94-43cb-8a18-812782e660c2" name="Default Changelist" comment="Added personal note to README.md - Alex">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="93b8e7fb-8f94-43cb-8a18-812782e660c2" name="Default Changelist" comment="Modified README.md - Alex" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +45,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,7 +59,7 @@
       <workItem from="1615795649206" duration="363000" />
       <workItem from="1615796023759" duration="2627000" />
       <workItem from="1616237473031" duration="1244000" />
-      <workItem from="1616325167353" duration="1452000" />
+      <workItem from="1616325167353" duration="1522000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <created>1616237765962</created>
@@ -77,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616339196754</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Modified README.md - Alex">
+      <created>1616339279494</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616339279494</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,21 +103,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testing" />
     <MESSAGE value="Added personal note to README.md - Alex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added personal note to README.md - Alex" />
+    <MESSAGE value="Modified README.md - Alex" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified README.md - Alex" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1615796002126">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1615796002126" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1616338416111">
+    <state x="781" y="345" key="SettingsEditor" timestamp="1616339334792">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616338416111" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1616339208124">
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616339334792" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1616339286451">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616339208124" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616339286451" />
     <state x="1080" y="601" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1616339053542">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

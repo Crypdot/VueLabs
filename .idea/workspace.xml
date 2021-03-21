@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93b8e7fb-8f94-43cb-8a18-812782e660c2" name="Default Changelist" comment="Testing">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="93b8e7fb-8f94-43cb-8a18-812782e660c2" name="Default Changelist" comment="Added personal note to README.md - Alex">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <workItem from="1615795649206" duration="363000" />
       <workItem from="1615796023759" duration="2627000" />
       <workItem from="1616237473031" duration="1244000" />
-      <workItem from="1616325167353" duration="1370000" />
+      <workItem from="1616325167353" duration="1452000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <created>1616237765962</created>
@@ -71,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616237765962</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added personal note to README.md - Alex">
+      <created>1616339196754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616339196754</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,7 +97,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing" />
+    <MESSAGE value="Added personal note to README.md - Alex" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added personal note to README.md - Alex" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1615796002126">
@@ -102,10 +109,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616338416111" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1616339075630">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1616339208124">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616339075630" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616339208124" />
     <state x="1080" y="601" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1616339053542">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

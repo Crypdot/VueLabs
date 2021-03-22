@@ -1,0 +1,61 @@
+body{
+    color: black;
+}
+
+.berry-name{
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+article{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+    margin-bottom: 0em;
+}
+.Blueberry{
+    background-color: lightblue;
+}
+.Cloudberry{
+    background-color: cornsilk;
+}
+.Lingonberry{
+    background-color: lightsalmon;
+}
+.berryfigure{
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+}
+img{
+    border: 1px solid blue;
+
+}
+p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 21em;
+    font-weight: bold;
+}
+h1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 3em;
+    font-size: 100px;
+}
+.latin-name{
+    font-style: italic;
+    font-weight: normal;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+.berry-name{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    font-size: 25px;
+}

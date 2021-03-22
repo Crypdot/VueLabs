@@ -1,0 +1,22 @@
+th{
+    background-color: red;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+#caption{
+    font-weight: bold;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+table{
+    display: inline-block;
+    border: 1px solid #000;
+}
+
+td:first-child{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #000;
+}

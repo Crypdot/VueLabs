@@ -1,0 +1,11 @@
+body{
+    color: black;
+}
+#two-columns{
+    margin-top: 20px;
+    column-count: 2
+}
+#three-columns{
+    margin-top: 20px;
+    column-count: 3;
+}

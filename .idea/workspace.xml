@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93b8e7fb-8f94-43cb-8a18-812782e660c2" name="Default Changelist" comment="Modified README.md - Alex">
-      <change afterPath="$PROJECT_DIR$/labs/03 HTML5/commodore64.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/03 HTML5/computers80.html" afterDir="false" />
+    <list default="true" id="93b8e7fb-8f94-43cb-8a18-812782e660c2" name="Default Changelist" comment="Added HTML practice sheets. - Alex">
+      <change afterPath="$PROJECT_DIR$/labs/03 HTML5/personalpage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
       <workItem from="1615796023759" duration="2627000" />
       <workItem from="1616237473031" duration="1244000" />
       <workItem from="1616325167353" duration="1917000" />
-      <workItem from="1616419751084" duration="1435000" />
+      <workItem from="1616419751084" duration="2282000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <created>1616237765962</created>
@@ -105,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616339342270</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added HTML practice sheets. - Alex">
+      <created>1616421255811</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616421255811</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +133,8 @@
     <MESSAGE value="Testing" />
     <MESSAGE value="Added personal note to README.md - Alex" />
     <MESSAGE value="Modified README.md - Alex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified README.md - Alex" />
+    <MESSAGE value="Added HTML practice sheets. - Alex" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HTML practice sheets. - Alex" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1615796002126">

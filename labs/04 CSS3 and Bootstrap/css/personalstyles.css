@@ -4,8 +4,13 @@ body{
 ul.no-bullets{
     list-style-type: none;
     margin: 0;
+    margin-left: 20px;
     padding: 0;
+    display: inline-block;
 }
 img{
+    float: left;
+}
+table{
     float: left;
 }

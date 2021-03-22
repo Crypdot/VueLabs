@@ -19,14 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93b8e7fb-8f94-43cb-8a18-812782e660c2" name="Default Changelist" comment="Did everything up to 5. Continue from there. - Alex">
-      <change afterPath="$PROJECT_DIR$/labs/04 CSS3 and Bootstrap/css/columnstyles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/04 CSS3 and Bootstrap/css/personalstyles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/04 CSS3 and Bootstrap/personalpage.html" afterDir="false" />
+    <list default="true" id="93b8e7fb-8f94-43cb-8a18-812782e660c2" name="Default Changelist" comment="Was tired. Still doing 5.2. - Alex">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/04 CSS3 and Bootstrap/columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs/04 CSS3 and Bootstrap/columns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/04 CSS3 and Bootstrap/css/floatstyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/labs/04 CSS3 and Bootstrap/css/floatstyles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/04 CSS3 and Bootstrap/floating.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs/04 CSS3 and Bootstrap/floating.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/04 CSS3 and Bootstrap/css/personalstyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/labs/04 CSS3 and Bootstrap/css/personalstyles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/04 CSS3 and Bootstrap/game.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs/04 CSS3 and Bootstrap/game.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +83,7 @@
       <workItem from="1616237473031" duration="1244000" />
       <workItem from="1616325167353" duration="1917000" />
       <workItem from="1616419751084" duration="9360000" />
-      <workItem from="1616439731430" duration="772000" />
+      <workItem from="1616439731430" duration="2466000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <created>1616237765962</created>
@@ -138,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616429518351</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Was tired. Still doing 5.2. - Alex">
+      <created>1616440525845</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616440525845</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +165,8 @@
     <MESSAGE value="Modified README.md - Alex" />
     <MESSAGE value="Added HTML practice sheets. - Alex" />
     <MESSAGE value="Did everything up to 5. Continue from there. - Alex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Did everything up to 5. Continue from there. - Alex" />
+    <MESSAGE value="Was tired. Still doing 5.2. - Alex" />
+    <option name="LAST_COMMIT_MESSAGE" value="Was tired. Still doing 5.2. - Alex" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1615796002126">
@@ -181,10 +185,10 @@
       <screen x="2560" y="0" width="1080" height="1880" />
     </state>
     <state x="2523" y="-11" width="1096" height="1119" maximized="true" key="dock-window-1/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616419842775" />
-    <state x="2491" y="-13" width="1096" height="1119" maximized="true" key="dock-window-2" timestamp="1616439803900">
+    <state x="2491" y="-13" width="1096" height="1119" maximized="true" key="dock-window-2" timestamp="1616447596415">
       <screen x="2560" y="0" width="1080" height="1880" />
     </state>
-    <state x="2491" y="-13" width="1096" height="1119" maximized="true" key="dock-window-2/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616439803900" />
+    <state x="2491" y="-13" width="1096" height="1119" maximized="true" key="dock-window-2/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616447596415" />
     <state x="1080" y="601" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1616339053542">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

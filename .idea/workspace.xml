@@ -19,11 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93b8e7fb-8f94-43cb-8a18-812782e660c2" name="Default Changelist" comment="Modified README.md - Alex" />
+    <list default="true" id="93b8e7fb-8f94-43cb-8a18-812782e660c2" name="Default Changelist" comment="Modified README.md - Alex">
+      <change afterPath="$PROJECT_DIR$/labs/03 HTML5/commodore64.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/03 HTML5/computers80.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,11 +46,15 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1pmkRsHRWgjAl6BafnVJXrcp9lM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -59,7 +74,8 @@
       <workItem from="1615795649206" duration="363000" />
       <workItem from="1615796023759" duration="2627000" />
       <workItem from="1616237473031" duration="1244000" />
-      <workItem from="1616325167353" duration="1522000" />
+      <workItem from="1616325167353" duration="1917000" />
+      <workItem from="1616419751084" duration="1435000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <created>1616237765962</created>
@@ -82,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616339279494</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Modified README.md - Alex">
+      <created>1616339342270</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616339342270</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,10 +138,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616339334792" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1616339286451">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1616339727234">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616339286451" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616339727234" />
+    <state x="2523" y="-11" width="1096" height="1119" maximized="true" key="dock-window-1" timestamp="1616419842775">
+      <screen x="2560" y="0" width="1080" height="1880" />
+    </state>
+    <state x="2523" y="-11" width="1096" height="1119" maximized="true" key="dock-window-1/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616419842775" />
     <state x="1080" y="601" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1616339053542">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

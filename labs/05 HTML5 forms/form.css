@@ -1,0 +1,24 @@
+body{
+    color: black;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 18px;
+}
+legend{
+    font-weight: bold;
+}
+fieldset{
+    margin: 15px;
+}
+select{
+    font-style: italic;
+}
+label{
+    margin-right: 30px;
+}
+label:hover{
+    color: blue;
+}
+input[type="submit"]{
+    margin-top: 40px;
+}

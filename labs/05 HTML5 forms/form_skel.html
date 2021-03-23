@@ -6,57 +6,50 @@
 	<head>
 		<meta charset="utf-8"/>
 		<title>Demonstrating HTML forms</title>
+		<link href="form.css" type="text/css" rel="stylesheet"/>
 	</head>
 	
 	<body>
 		<h1>Turnitin</h1>
 		<form  lang="fi" action="">
 			<div>
-				Name: <input type="text" name="studentname"/>
-			</div>
-			<div>
-				Student id: <input type="text" name="id"  />
-			</div>
-			<div>
-				Email:
-				<!--
-				Make an input named "email"
-				-->
-			</div>
-			<div>
-				Assignment:
-				<!--
-				Make an input named "assignment"
-				-->
-				
+				<fieldset>
+					<legend>Student information</legend>
+					Name: <input type="text" name="studentname" placeholder="Nimi" pattern="[A-Za-z]" title="Ole hyvä ja anna nimesi"/>
+					Student id: <input type="text" name="id" placeholder="xxxxxxx" pattern="d{7}" title="Ole hyvä ja anna opiskelijanumerosi" />
+					Email: <input type="email" name="email" placeholder="etu.suku@koulu.fi" pattern="+@metropolia.com" title="Ole hyvä ja laita sähköpostiosoitteesi."/>
+				</fieldset>
 			</div>
 
 			<div>
-				Code:
-				<!--
-				Make an input named "code" which is a text area to put student's code into.
-				-->
-				
+				<fieldset>
+					<legend>Class tasks</legend>
+					Assignment: <input type="text" name="assignment" placeholder="Tehtävä" required title="Ole hyvä ja täytä kenttä"/>
+					Code: <input type="text" name="code" placeholder="Koodi" required title="Ole hyvä ja täytä kenttä"/>
+					Cheat: <label><input type="checkbox" name="cheat"/></label>
+				</fieldset>
 			</div>
+
 			<div>
-				Cheat:
-			<!--
-				Make an input named "cheat" which is a check box the student must check.
-			-->
-			</div>
-			<div>
-				Pay:
-			<!--
-				Make an input named "payment" which is a radio box with possible values of visa, paypal, mastercard
-			-->
+				Pay: <br>
+				<form action="">
+					<fieldset>
+						<legend>Credit Card</legend>
+						<label><input type="radio" name="card" value="visa">Visa</label>
+						<label><input type="radio" name="card" value="paypal">PayPal </label>
+						<label><input type="radio" name="card" value="mastercard">MasterCard </label>
+					</fieldset>
+				</form>
 			</div>
 			<div>
 				Score:
-			<!--
-				Make an input named "score" which is a list of choices for the score 
-			-->
+				<select name="score" required>
+					<option value="lowscore">Low score</option>
+					<option value="medscore">Medium score</option>
+					<option value="hiscore">High Score</option>
+				</select>
 			</div>
-			<input type="submit" />
+			<input type="submit" name="submit"/>
 		</form>
 		<a href="http://jigsaw.w3.org/css-validator/check/referer">Validate</a>
 	</body>

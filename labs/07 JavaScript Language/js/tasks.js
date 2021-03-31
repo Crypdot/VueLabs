@@ -8,18 +8,13 @@ var tasks = [];
 // Function adds a task to the global array.
 function addTask() {
     'use strict';
-
     // Get the task:
     var task = document.getElementById('task');
-
     // Reference to where the output goes:
     var output = document.getElementById('output');
-    
     // For the output:
     var message = '';
-
     if (task.value) {
-    
         // Add the item to the array:
         tasks.push(task.value);
         
@@ -37,7 +32,21 @@ function addTask() {
     return false;
     
 } // End of addTask() function.
+function removeDuplicates(){
+    let output = document.getElementById('output')
+    let message = '';
 
+    tasks = tasks.filter(function(value, index, array){
+        return array.indexOf(value) === index;
+    })
+    message = '<h2>To-Do</h2><ol>';
+    for (var i = 0, count = tasks.length; i < count; i++) {
+        message += '<li>' + tasks[i] + '</li>';
+    }
+    message += '</ol>';
+    output.innerHTML = message;
+
+    }
 // Initial setup:
 function init() {
     'use strict';

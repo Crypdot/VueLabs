@@ -19,11 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93b8e7fb-8f94-43cb-8a18-812782e660c2" name="Default Changelist" comment="Was tired. Still doing 5.2. - Alex">
-      <change afterPath="$PROJECT_DIR$/labs/05 HTML5 forms/aSampleForm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/05 HTML5 forms/form.css" afterDir="false" />
+    <list default="true" id="93b8e7fb-8f94-43cb-8a18-812782e660c2" name="Default Changelist" comment="Lab 5 completed. - Alex">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/05 HTML5 forms/form_skel.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs/05 HTML5 forms/form_skel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/07 JavaScript Language/function_returns_object.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs/07 JavaScript Language/function_returns_object.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/07 JavaScript Language/js/tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/labs/07 JavaScript Language/js/tasks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/07 JavaScript Language/object_methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs/07 JavaScript Language/object_methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/07 JavaScript Language/simple_function.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs/07 JavaScript Language/simple_function.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,10 @@
       <workItem from="1616419751084" duration="9360000" />
       <workItem from="1616439731430" duration="2466000" />
       <workItem from="1616489723357" duration="1274000" />
-      <workItem from="1616491016759" duration="2418000" />
+      <workItem from="1616491016759" duration="2491000" />
+      <workItem from="1616569072995" duration="3089000" />
+      <workItem from="1616848179658" duration="5020000" />
+      <workItem from="1616853559452" duration="2710000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <created>1616237765962</created>
@@ -144,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616440525845</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lab 5 completed. - Alex">
+      <created>1616493515537</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616493515537</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +180,8 @@
     <MESSAGE value="Added HTML practice sheets. - Alex" />
     <MESSAGE value="Did everything up to 5. Continue from there. - Alex" />
     <MESSAGE value="Was tired. Still doing 5.2. - Alex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Was tired. Still doing 5.2. - Alex" />
+    <MESSAGE value="Lab 5 completed. - Alex" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 5 completed. - Alex" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1615796002126">
@@ -184,17 +196,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616339727234" />
-    <state x="2523" y="-11" width="1096" height="1119" maximized="true" key="dock-window-1" timestamp="1616419842775">
+    <state x="2510" y="-15" width="1096" height="1095" key="dock-window-1" timestamp="1616858468999">
       <screen x="2560" y="0" width="1080" height="1880" />
     </state>
-    <state x="2523" y="-11" width="1096" height="1119" maximized="true" key="dock-window-1/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616419842775" />
-    <state x="2491" y="-13" width="1096" height="1119" maximized="true" key="dock-window-2" timestamp="1616491044443">
+    <state x="2510" y="-15" width="1096" height="1095" key="dock-window-1/-2560.0.2560.1400/2560.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1616858468999" />
+    <state x="2510" y="-15" width="1096" height="1095" maximized="true" key="dock-window-1/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616853793234" />
+    <state x="2491" y="-13" width="1096" height="1119" maximized="true" key="dock-window-2" timestamp="1616569371217">
       <screen x="2560" y="0" width="1080" height="1880" />
     </state>
-    <state x="2491" y="-13" width="1096" height="1119" maximized="true" key="dock-window-2/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616491044443" />
+    <state x="2491" y="-13" width="1096" height="1119" maximized="true" key="dock-window-2/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616569371217" />
     <state x="1080" y="601" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1616339053542">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1080" y="601" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616339053542" />
+    <state x="2960" y="446" key="run.anything.popup" timestamp="1616858467264">
+      <screen x="2560" y="0" width="1080" height="1880" />
+    </state>
+    <state x="2960" y="446" key="run.anything.popup/-2560.0.2560.1400/2560.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1616858467264" />
   </component>
 </project>

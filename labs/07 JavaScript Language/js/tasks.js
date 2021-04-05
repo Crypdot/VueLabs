@@ -45,7 +45,6 @@ function removeDuplicates(){
     }
     message += '</ol>';
     output.innerHTML = message;
-
     }
 // Initial setup:
 function init() {

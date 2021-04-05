@@ -10,6 +10,9 @@
 		map.onmousemove = showCoords;
 		var mydiv = document.getElementById("mydiv");
 		mydiv.onclick = addtext;
+		var listdiv = document.getElementById("divlist");
+		listdiv.onclick = changeList;
+		createList();
 	}
 	
 	function showCoords(eventObj) {
@@ -21,18 +24,41 @@
 
 	function addtext(){
 		if (document.createTextNode){
-			var textToAdd = " Div was clicked! "
+			var textToAdd = "Div was clicked!"
 			var newNode = document.createTextNode(textToAdd);
 			document.getElementById("mydiv").appendChild(newNode);
 		} else {
 			alert("Looks like you have an old browser!");
 		}
 	}
+
+	function createList(){
+	  console.log("Making list . . . ");
+	  for(var i = 0; i < 10; i++){
+	    var node = document.createElement("li");
+	    var text = document.createTextNode("List item: "+(i+1));
+	    node.appendChild(text);
+	    document.getElementById("list").appendChild(node);
+      }
+	  console.log("List made!");
+    }
+
+    function changeList(){
+	  console.log("Changing list . . . ");
+      for(var i = 0; i < 10; i++){
+        document.getElementsByTagName("li")[i].innerHTML = "A different list item number: "+(i*2);
+      }
+      console.log("List changed!");
+    }
+
   </script>
 </head>
 <body>
 	<img id="map" src="data/map.jpg">
 	<p id="coords">Move mouse over map to find coordinates...</p>
 	<div id="mydiv" style="border:1px solid red">I am a DIV! Click me.</div>
+<div id="divlist">This is a div
+    <ul id="list"></ul>
+</div>
 </body>
 </html>

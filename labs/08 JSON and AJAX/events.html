@@ -10,13 +10,30 @@
   </style>
   <script>
 window.onload = function() {
-	var div = document.getElementById("clickme");
-	if (div.addEventListener) {
-		div.addEventListener("click", handleClick, false);
-	} else if (div.attachEvent) {
-		div.attachEvent("click", handleClick);
-	}
-};
+  var div = document.getElementById("clickme");
+  var mousediv = document.getElementById("mouseover");
+
+  if (div.addEventListener) {
+    div.addEventListener("click", handleClick, false);
+  } else if (div.attachEvent) {
+    div.attachEvent("click", handleClick);
+  };
+
+  div.addEventListener("mouseover", handleHover);
+  mousediv.addEventListener("mouseover", handleHover);
+
+}
+
+function handleHover(e){
+  var evt = e || window.event;
+  var target;
+  if (evt.target) {
+    target = evt.target;
+  } else {
+    target = evt.srcElement;
+  }
+  alert("You hovered over "+target.id+"!");
+}
 
 function handleClick(e) {
 	var evt = e || window.event;
@@ -33,5 +50,8 @@ function handleClick(e) {
 </head>
 <body>
 <span id="clickme">Click me!</span>
+<div>
+  <span id="mouseover">Mouse me over!</span>
+</div>
 </body>
 </html>

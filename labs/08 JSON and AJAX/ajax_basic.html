@@ -9,43 +9,59 @@
   <span id="ajaxButton" style="cursor: pointer; text-decoration: underline">
     Make a request
   </span>
-
+  <div id="input">
+      <input type="text" id="search" aria-label="Search for a site">
+      <button id="button">Search</button>
 
   <script type="text/javascript">
   (function() {
     var httpRequest;
     var testUrl = 'data/story.json';
     // Use Github Gist when no web server is available
-    // var testUrl = 'https://gist.githubusercontent.com/c0lin/571d38b984d41b44aacf/raw/story.json';
-    document.getElementById("ajaxButton").onclick = function() { makeRequest(testUrl); };
+    //var testUrl = 'https://gist.githubusercontent.com/c0lin/571d38b984d41b44aacf/raw/story.json';
+    //document.getElementById("ajaxButton").onclick = function() { makeRequest(testUrl); };
+
+    document.getElementById("button").onclick = function(){makeRequest(getUrl())}
 
     function makeRequest(url) {
-      if (window.XMLHttpRequest) { // Mozilla, Safari, ...
-        httpRequest = new XMLHttpRequest();
-      } else if (window.ActiveXObject) { // IE
-        try {
-          httpRequest = new ActiveXObject("Msxml2.XMLHTTP");
-        } 
-        catch (e) {
-          try {
-            httpRequest = new ActiveXObject("Microsoft.XMLHTTP");
-          } 
-          catch (e) {}
-        }
+          if (window.XMLHttpRequest) { // Mozilla, Safari, ...
+            httpRequest = new XMLHttpRequest();
+          } else if (window.ActiveXObject) { // IE
+            try {
+              httpRequest = new ActiveXObject("Msxml2.XMLHTTP");
+            }
+            catch (e) {
+              try {
+                httpRequest = new ActiveXObject("Microsoft.XMLHTTP");
+              }
+              catch (e) {}
+            }
+          }
+
+          if (!httpRequest) {
+            alert('Giving up :( Cannot create an XMLHTTP instance');
+            return false;
+          }
+
+          // set a callback function for when the httpRequest completes
+          //httpRequest.onreadystatechange = alertContents;
+          httpRequest.onreadystatechange = function(){checker(this)}
+          // now do the actual AJAX request
+          httpRequest.open('GET', url);
+          httpRequest.send();
       }
 
-      if (!httpRequest) {
-        alert('Giving up :( Cannot create an XMLHTTP instance');
-        return false;
-      }
 
-      // set a callback function for when the httpRequest completes
-      httpRequest.onreadystatechange = alertContents;
-
-      // now do the actual AJAX request
-      httpRequest.open('GET', url);
-      httpRequest.send();
+    function getUrl(){
+      let url = document.getElementById("search").value;
+      console.log("Got this url: "+url);
+      return url;
     }
+    function checker(https){
+      if(https.status === 404){alert("Page is down")}
+      else if(https.status === 200){alert("Page is up")}
+    }
+
 
     // the callback
     // this will be run when the request completes (see above)
@@ -61,5 +77,6 @@
   })();
   </script>
 
+  </div>
 </body>
 </html>

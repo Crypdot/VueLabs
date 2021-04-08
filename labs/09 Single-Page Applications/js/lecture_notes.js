@@ -3,29 +3,43 @@ var notes = [];
 /*
  * displays the 'add' screen if this has been bookmarked by user
  */
-if (window.location.hash == '#add' || notes.length === 0) {
+if (window.location.hash === '#add' || notes.length === 0) {
 	document.getElementById('editPage').style.display = 'none';
 } else {
 	document.getElementById('addPage').style.display = 'none';
 }
 
 document.querySelector('#addPage button').onclick = function() {
-	console.log('add note');
-	var title = document.querySelector('#addPage input').value;
-	var note = document.querySelector('#addPage textarea').value;
-};
+	let title = document.querySelector('#addPage input').value;
+	let note = document.querySelector('#addPage textarea').value;
 
+	notes.push({title: title, note: note});
+
+	document.querySelector('#addPage input').value = "";
+	document.querySelector('#addPage textarea').value = "";
+	loadList();
+};
+document.querySelector('#editPage button').onclick = function(){
+	updateNote();
+}
 /*
  * handles navigation between the add and edit 'screens'
  */ 
 document.querySelector('nav > ul > li:nth-child(1)').onclick = function() {
-	console.log('first link clicked');
+	if(	document.getElementById('addPage').style.display === 'none'){
+		document.getElementById('addPage').style.display = 'block';
+	}else{
+	document.getElementById('addPage').style.display = 'none';
+	}
 };
 
 document.querySelector('nav > ul > li:nth-child(2)').onclick = function() {
-	console.log('second link clicked');
+	if(	document.getElementById('editPage').style.display === 'none'){
+	document.getElementById('editPage').style.display = 'block';
+	}else{
+	document.getElementById('editPage').style.display = 'none';
+	}
 };
-
 
 function updateNote() {
 	console.log('update note');
@@ -36,6 +50,7 @@ function updateNote() {
 	var updated = {title: title, note: note};
 	console.log(updated);
 	notes[id] = {title: title, note: note};
+	loadList();
 }
 
 function display(element) {
@@ -57,11 +72,12 @@ function rem(element) {
 	var editId = parseInt(document.querySelector('#editPage p').innerHTML, 10);
 	console.log('id: '+id);
 	console.log('editId: '+editId);
-	if (id == editId) {
+	if (id === editId) {
 		console.log('deleted document being edited!');
 		document.querySelector('#editPage input').value = '';
 		document.querySelector('#editPage textarea').value = '';
 	}
+	loadList();
 }
 
 function loadList() {

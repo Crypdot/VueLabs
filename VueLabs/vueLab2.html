@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vue Lab 2</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <span v-if="seen">Now you see me</span>
+    <button @click="changeVisibility">show/hide</button>
+</div>
+
+<script>
+    var app = new Vue({
+      el: '#app',
+      data: {
+        seen: true
+      },
+      methods:{
+        changeVisibility: function(){
+          console.log("Visibility changed");
+          this.seen =! this.seen;
+        }
+      }
+    })
+</script>
+</body>
+</html>

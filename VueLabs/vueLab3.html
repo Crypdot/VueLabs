@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vue Lab 3</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <p>Music volume is at: <strong>{{volume}}</strong></p>
+    <button @click="subtract">-</button>
+    <button @click="reset">0</button>
+    <button @click="add">+</button>
+</div>
+
+<script>
+
+  var app = new Vue({
+    el: '#app',
+    data: {
+      volume: 0
+    },
+    methods:{
+      subtract: function(){ this.volume--; },
+      reset: function(){ this.volume = 0; },
+      add: function(){ this.volume++; }
+    }
+  })
+</script>
+</body>
+</html>

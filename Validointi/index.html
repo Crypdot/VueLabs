@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lomake-esimerkki</title>
+</head>
+<link rel="stylesheet" href="validointi.css">
+<body>
+
+<form action = "http://127.0.0.1:8081/process_post" method ="POST">
+    First Name: <input type = "text" name = "first_name" required pattern = "^[A-Z]+[a-zA-Z]*$"><br>
+    Last Name: <input type = "text" name = "last_name" required pattern = "^[A-Z]+[a-zA-Z]*$"><br>
+    E-mail: <input type ="email" name = "email" required><br>
+    Age: <input type ="number" name = "age" required><br>
+    <input type = "submit" value = "Submit">
+</form>
+
+</body>
+</html>

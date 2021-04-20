@@ -22,25 +22,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93b8e7fb-8f94-43cb-8a18-812782e660c2" name="Default Changelist" comment="Lab 8 completed. - Alex">
-      <change afterPath="$PROJECT_DIR$/VueLabs/vueLab1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VueLabs/vueLab2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VueLabs/vueLab3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VueLabs/vueLab4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/11 Unit Testing/MIT.LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/11 Unit Testing/SpecRunner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/11 Unit Testing/jasmine-standalone-3.7.1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/11 Unit Testing/spec/notes.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/11 Unit Testing/src/notes.js" afterDir="false" />
+    <list default="true" id="93b8e7fb-8f94-43cb-8a18-812782e660c2" name="Default Changelist" comment="Labs 9 completed, and lab 10 completed (vue directory added) - Alex">
+      <change afterPath="$PROJECT_DIR$/Validointi/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validointi/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validointi/validointi.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/09 Single-Page Applications/building_lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs/09 Single-Page Applications/building_lists.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/09 Single-Page Applications/js/building_lists.js" beforeDir="false" afterPath="$PROJECT_DIR$/labs/09 Single-Page Applications/js/building_lists.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/09 Single-Page Applications/js/lecture_notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/labs/09 Single-Page Applications/js/lecture_notes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/09 Single-Page Applications/js/simple_dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/labs/09 Single-Page Applications/js/simple_dom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/09 Single-Page Applications/lecture_notes.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs/09 Single-Page Applications/lecture_notes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/09 Single-Page Applications/simple_dom.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs/09 Single-Page Applications/simple_dom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/10 JavaScript Modules/function_closure.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs/10 JavaScript Modules/function_closure.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/10 JavaScript Modules/js_classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs/10 JavaScript Modules/js_classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VueLabs/vueLab4.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueLabs/vueLab4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +39,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
+        <option value="package.json" />
       </list>
     </option>
   </component>
@@ -79,10 +69,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/labs/04 CSS3 and Bootstrap" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.16.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.37" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webprojekti" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -90,11 +83,12 @@
       <recent name="D:\WebStorm Projects\WebSovellusKehitys\labs\04 CSS3 and Bootstrap" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebStorm Projects\WebSovellusKehitys" />
       <recent name="D:\WebStorm Projects\WebSovellusKehitys\VueLabs" />
       <recent name="D:\WebStorm Projects\WebSovellusKehitys\labs\11 Unit Testing" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.js_classes.html">
+  <component name="RunManager" selected="Node.js.server.js">
     <configuration name="building_lists.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebSovellusKehitys/labs/09 Single-Page Applications/building_lists.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -107,16 +101,16 @@
     <configuration name="lecture_notes.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebSovellusKehitys/labs/09 Single-Page Applications/lecture_notes.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="simple_dom.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebSovellusKehitys/labs/09 Single-Page Applications/simple_dom.html" useBuiltInWebServerPort="true">
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Validointi/server.js" working-dir="$PROJECT_DIR$/Validointi">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.server.js" />
         <item itemvalue="JavaScript Debug.js_classes.html" />
         <item itemvalue="JavaScript Debug.function_closure.html" />
         <item itemvalue="JavaScript Debug.building_lists.html" />
         <item itemvalue="JavaScript Debug.lecture_notes.html" />
-        <item itemvalue="JavaScript Debug.simple_dom.html" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +143,18 @@
       <workItem from="1617616686195" duration="21678000" />
       <workItem from="1617666985051" duration="3192000" />
       <workItem from="1617697371405" duration="8711000" />
-      <workItem from="1617877651134" duration="9349000" />
+      <workItem from="1617877651134" duration="10887000" />
+      <workItem from="1617890474241" duration="2000" />
+      <workItem from="1618251519109" duration="1117000" />
+      <workItem from="1618308199503" duration="1279000" />
+      <workItem from="1618466799247" duration="595000" />
+      <workItem from="1618554074979" duration="1562000" />
+      <workItem from="1618655463734" duration="837000" />
+      <workItem from="1618657507713" duration="1836000" />
+      <workItem from="1618663350176" duration="625000" />
+      <workItem from="1618678607079" duration="334000" />
+      <workItem from="1618748239143" duration="1829000" />
+      <workItem from="1618811670244" duration="747000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <created>1616237765962</created>
@@ -228,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617608870576</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Labs 9 completed, and lab 10 completed (vue directory added) - Alex">
+      <created>1617887120185</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1617887120185</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,37 +268,39 @@
     <MESSAGE value="Was tired. Still doing 5.2. - Alex" />
     <MESSAGE value="Lab 5 completed. - Alex" />
     <MESSAGE value="Lab 8 completed. - Alex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 8 completed. - Alex" />
+    <MESSAGE value="Labs 9 completed, and lab 10 completed (vue directory added) - Alex" />
+    <option name="LAST_COMMIT_MESSAGE" value="Labs 9 completed, and lab 10 completed (vue directory added) - Alex" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617700981798">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1617700981798" />
-    <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1615796002126">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="-1500" y="441" key="FileChooserDialogImpl" timestamp="1618815553673">
+      <screen x="-2560" y="0" width="2560" height="1400" />
     </state>
-    <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1615796002126" />
-    <state width="2539" height="505" key="GridCell.Tab.0.bottom" timestamp="1617670201757">
+    <state x="-1500" y="441" key="FileChooserDialogImpl/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@-2560.0.2560.1400" timestamp="1618815553673" />
+    <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1618673434349" />
+    <state width="2539" height="401" key="GridCell.Tab.0.bottom" timestamp="1618659360501">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2539" height="492" key="GridCell.Tab.0.bottom/-2560.0.2560.1400/2560.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1617393760837" />
-    <state width="2539" height="505" key="GridCell.Tab.0.bottom/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1617670201757" />
-    <state width="2539" height="505" key="GridCell.Tab.0.center" timestamp="1617670201757">
+    <state width="2539" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1618659360501" />
+    <state width="2539" height="401" key="GridCell.Tab.0.center" timestamp="1618659360500">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2539" height="492" key="GridCell.Tab.0.center/-2560.0.2560.1400/2560.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1617393760837" />
-    <state width="2539" height="505" key="GridCell.Tab.0.center/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1617670201757" />
-    <state width="2539" height="505" key="GridCell.Tab.0.left" timestamp="1617670201757">
+    <state width="2539" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1618659360500" />
+    <state width="2539" height="401" key="GridCell.Tab.0.left" timestamp="1618659360500">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2539" height="492" key="GridCell.Tab.0.left/-2560.0.2560.1400/2560.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1617393760837" />
-    <state width="2539" height="505" key="GridCell.Tab.0.left/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1617670201757" />
-    <state width="2539" height="505" key="GridCell.Tab.0.right" timestamp="1617670201757">
+    <state width="2539" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1618659360500" />
+    <state width="2539" height="401" key="GridCell.Tab.0.right" timestamp="1618659360500">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2539" height="492" key="GridCell.Tab.0.right/-2560.0.2560.1400/2560.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1617393760837" />
-    <state width="2539" height="505" key="GridCell.Tab.0.right/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1617670201757" />
+    <state width="2539" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1618659360500" />
     <state width="2539" height="505" key="GridCell.Tab.1.bottom" timestamp="1617670201758">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -347,10 +361,10 @@
     </state>
     <state width="2539" height="492" key="GridCell.Tab.3.right/-2560.0.2560.1400/2560.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1617393760838" />
     <state width="2539" height="505" key="GridCell.Tab.3.right/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1617670201758" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1617280449413">
+    <state x="781" y="345" key="SettingsEditor" timestamp="1618655697379">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1617280449413" />
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1618655697379" />
     <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1616339727234">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -359,11 +373,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1097" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1617882417351" />
-    <state x="2541" y="-18" width="1096" height="1387" maximized="true" key="dock-window-1" timestamp="1617700896775">
-      <screen x="2560" y="0" width="1080" height="1880" />
+    <state x="-2231" y="-16" width="2199" height="1387" maximized="true" key="dock-window-1" timestamp="1618748569038">
+      <screen x="-2560" y="0" width="2560" height="1400" />
     </state>
     <state x="2510" y="-15" width="1096" height="1095" key="dock-window-1/-2560.0.2560.1400/2560.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1616858468999" />
-    <state x="2541" y="-18" width="1096" height="1387" maximized="true" key="dock-window-1/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1617700896775" />
+    <state x="-2231" y="-16" width="2199" height="1387" maximized="true" key="dock-window-1/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1618678944117" />
     <state x="2491" y="-13" width="1096" height="1119" maximized="true" key="dock-window-2" timestamp="1616569371217">
       <screen x="2560" y="0" width="1080" height="1880" />
     </state>
@@ -372,6 +386,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1080" y="601" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1616339053542" />
+    <state x="997" y="508" key="jetbrains.nodejs.interpreters-dialog" timestamp="1617890228952">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="997" y="508" key="jetbrains.nodejs.interpreters-dialog/0.0.2560.1400/-2560.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1617890228952" />
     <state x="948" y="332" key="run.anything.popup" timestamp="1617640563167">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

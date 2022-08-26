@@ -1,3 +1,6 @@
-# My Git Notes v1.2
+# VueJS Labs
 
-Personal note / test
+This is the course-work provided to us by Metropolia, involving both VueJS, and validation-practice.
+
+## Source for labs
+https://github.com/covcom/205CDE
